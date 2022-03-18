@@ -1,6 +1,7 @@
 ![mahua](mahua-logo.jpg)
 ## 练习6：计算未选课人数
 programming language: Matlab,R2020a
+
 问题描述：120人选课id偶数的选a课id%5==0的选b课id%7==0的选c问多少人没选课(答案：41)
 
 代码
